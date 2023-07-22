@@ -1,6 +1,6 @@
 # page-404
 #### Sobre:
-Construindo uma página de erro 404, através do projeto #boraCodar da Rocketseat.
+Construindo uma página de erro 404 através do projeto #boraCodar da Rocketseat.
 
 ##
 #### Tecnologias:
