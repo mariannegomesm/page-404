@@ -4,7 +4,7 @@ Construindo uma página de erro 404, através do projeto #boraCodar da Rocketsea
 
 ##
 #### Tecnologias:
-Next, React, Typescript, Styled Components e Styled System
+Next, Typescript, Styled Components e Styled System
 
 ##
 #### Interface:
